@@ -2,3 +2,5 @@ test test dev conflict
 test again conflict
 
 test in windows
+
+test in git3 on windows
